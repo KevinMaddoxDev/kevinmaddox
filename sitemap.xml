@@ -1,51 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kevinmaddox.dev/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-<loc>https://kevinmaddox.dev/</loc>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/2048-privacy-policy.html</loc>
-<lastmod>2025-04-27T10:51:59-05:00</lastmod>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/about.html</loc>
-<lastmod>2025-04-24T15:46:40-05:00</lastmod>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/puzzle-block-sprites-3.html</loc>
-<lastmod>2025-05-15T16:11:59-05:00</lastmod>
-<image:image>
-<image:loc>https://kevinmaddox.dev/media/posts/9/FeatureImage.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://kevinmaddox.dev/media/posts/9/gallery/Screenshot-May-13-2025-11_07_39-AM-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://kevinmaddox.dev/media/posts/9/gallery/Screenshot-May-13-2025-11_54_21-AM-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://kevinmaddox.dev/media/posts/9/gallery/Screenshot-May-13-2025-11_45_33-AM-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://kevinmaddox.dev/media/posts/9/gallery/Screenshot-May-13-2025-11_22_03-AM-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/puzzle-block-sprites-privacy-policy-2.html</loc>
-<lastmod>2025-04-27T10:54:07-05:00</lastmod>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/secure-single-note-privacy-policy.html</loc>
-<lastmod>2025-04-27T10:50:38-05:00</lastmod>
-</url>
-<url>
-<loc>https://kevinmaddox.dev/single-secure-note.html</loc>
-<lastmod>2025-04-27T10:51:37-05:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kevinmaddox.dev/index.html</loc>
+    <description>Official directory and home page for Kevin Maddox games and mobile applications.</description>
+    <lastmod>2026-10-21T20:24:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kevinmaddox.dev/puzzle-block-sprites.html</loc>
+    <description>Puzzle Block Sprites is a vibrant mobile match 3 tile game. Solve challenging puzzles and unlock power-ups.</description>
+    <lastmod>2026-10-21T20:24:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kevinmaddox.dev/puzzle-block-sprites-privacy-policy.html</loc>
+    <description>Privacy Policy and data collection details for the mobile game Puzzle Block Sprites.</description>
+    <lastmod>2026-10-21T20:24:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kevinmaddox.dev/daily-reminders.html</loc>
+    <description>Take control of your daily routine with zero mental friction. Daily Reminders offers custom lock-screen alarms, pre/post notifications, and clear schedule views.</description>
+    <lastmod>2026-10-21T20:24:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kevinmaddox.dev/daily-reminders-privacy-policy.html</loc>
+    <description>Daily Reminders Privacy Policy</description>
+    <lastmod>2026-10-21T20:24:58Z</lastmod>
+  </url>
 </urlset>
